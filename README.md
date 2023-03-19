@@ -1,2 +1,7 @@
 # security-wordcloud
-Simple word cloud file to create 10 random security word cloud images 
+Simple python script to create word cloud image having cyber security words 
+creates 10 images in loop
+Font color and background color are random
+
+
+
